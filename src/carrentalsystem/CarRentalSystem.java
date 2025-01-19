@@ -37,7 +37,7 @@ public class CarRentalSystem {
     }
 
     public List<Branch> getAllBranches() {
-
+        return null;
     }
 
     // Car Search by Location, Start Date, and End Date
